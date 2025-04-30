@@ -36,3 +36,34 @@
 - **Nuvem Privada**: Uso exclusivo por uma única organização
 - **Nuvem Pública**: Entrega de serviços a múltiplos clientes
 - **Nuvem Híbrida**: Integra nuvens públicas e privadas para melhor flexibilidade
+- **Multicloud**: Uso de múltiplos provedores de nuvem simultaneamente
+
+---
+
+## 💰 CapEx vs OpEx
+
+### CapEx - Despesas de Capital
+- Gasto inicial com infraestrutura física
+- O valor é amortizado ao longo do tempo
+
+### OpEx - Despesas Operacionais
+- Pagamento conforme uso de produtos e serviços
+- Modelo flexível e sob demanda
+
+---
+
+## 🚀 Benefícios da Computação em Nuvem
+- Alta disponibilidade
+- Escalabilidade e Elasticidade: ajuste de recursos conforme a demanda
+- Confiabilidade
+- Previsibilidade
+- Segurança
+- Governança
+- Gerenciabilidade
+
+---
+
+## 🌟 Benefícios da Nuvem Azure
+- Infraestrutura global e segura
+- Escalabilidade automatizada
+- Ferramentas integradas para governança e controle
