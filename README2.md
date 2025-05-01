@@ -96,11 +96,3 @@ Neste desafio prático, realizei a configuração de um novo banco de dados SQL 
 - **Custo de computação:** USD 0.000275 por vCore/segundo  
 
 ---
-
-## 📎 Anexos
-
-1. ![Resumo de Custos e Termos](./932bdb16-c496-4d65-bb3b-52b9d0764769.png)
-2. ![Configurações Básicas e Rede](./f26c5cb1-ca60-4eef-88c8-e603f81af8b6.png)
-3. ![Segurança e Configurações Adicionais](./92e336b8-38ad-4d74-b538-3c2825a8a3f8.png)
-
----
